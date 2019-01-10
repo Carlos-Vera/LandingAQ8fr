@@ -10,8 +10,8 @@ $configs['to_addresses']			= array('info@aq8system.com');					// The addresse(s)
 
 /* START - Optional Configs */
 $configs['lang_path']				= 'lang/fr.json';								// Path to the language file
-$configs['recaptcha_enabled']		= true;										// Is Google reCAPTCHA enabled
-$configs['recaptcha_secret']		= '6Lcz9H4UAAAAACcEMfpvit19QsSkS1KVhHEaZ';		// Google reCAPTCHA secret key
+$configs['recaptcha_enabled']		= true;											// Is Google reCAPTCHA enabled
+$configs['recaptcha_secret']		= '6Lcz9H4UAAAAACcEMfpvit19QsSkS1KVhHEaZ-HZ';	// Google reCAPTCHA secret key
 $configs['success_link']			= 'felicitations.html';							// Link of a custom success page
 $configs['curl_enabled']			= true;											// Set to false if your server has cURL disabled
 // Generic email configs
